@@ -1,0 +1,15 @@
+{
+    "name": "ackeley/gorzfw",
+    "authors": [
+        {
+            "name": "Ackeley Lennon",
+            "email": "ackeley@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GorzFig\\": "src"
+        }
+    }
+}
